@@ -1,2 +1,1 @@
-# python_code
-#Эволюция школьника 
+# python_code 
